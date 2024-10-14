@@ -19,4 +19,6 @@
 
 ## ⭐ GitHub Stats
 
-[![eduvs68's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduvs68)](https://github.com/eduvs68/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduvs68&layout=compact)](https://github.com/eduvs68/github-readme-stats)
+
+[![eduvs68's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduvs68&theme=github_dark&hide_border=false&)](https://github.com/eduvs68/github-readme-stats)
