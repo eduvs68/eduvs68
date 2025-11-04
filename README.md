@@ -1,4 +1,4 @@
-## Ooi, meu nome é Eduardo!
+## Oi, meu nome é Eduardo!
 
 📘 | Estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou aspirante a dev front-end e atualmente estou estudando AngularJS e requisição e manipulação de APIs.
 
