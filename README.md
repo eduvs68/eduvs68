@@ -1,6 +1,6 @@
 ## Oi, meu nome é Eduardo!
 
-📘 | Estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou aspirante a dev front-end e atualmente estou estudando Java e integração com bancos de dados.
+📘 | Estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou aspirante a dev fullstack e atualmente estou estudando Java e integração com bancos de dados.
 
 🔭 | No momento, estou desenvolvendo, como projeto da faculdade, um sistema web que lê arquivos CSV, interpreta os dados  e utiliza a API que criamos para mostrá-los graficamente.
 
