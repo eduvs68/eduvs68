@@ -1,8 +1,8 @@
 ## Oi, meu nome é Eduardo!
 
-📘 | Estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou aspirante a dev front-end e atualmente estou estudando AngularJS e requisição e manipulação de APIs.
+📘 | Estou cursando Análise e Desenvolvimento de Sistemas na Fatec. Sou aspirante a dev front-end e atualmente estou estudando Java e integração com bancos de dados.
 
-🔭 | No momento, estou desenvolvendo, juntamente com um amigo, um projeto de um site de climatempo, utilizando APIs públicas para mostrar a previsão do tempo.
+🔭 | No momento, estou desenvolvendo, como projeto da faculdade, um sistema web que lê arquivos CSV, interpreta os dados  e utiliza a API que criamos para mostrá-los graficamente.
 
 ---
 
